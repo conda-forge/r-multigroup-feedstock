@@ -1,11 +1,11 @@
-About r-multigroup
-==================
+About r-multigroup-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-multigroup-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=multigroup
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-multigroup-feedstock/blob/main/LICENSE.txt)
 
 Summary: Multivariate analysis methods including principal component analysis, partial least square regression, and multiblock analysis to describe, summarize, and visualize data with a group structure.
 
